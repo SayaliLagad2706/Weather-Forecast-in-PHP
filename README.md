@@ -7,10 +7,11 @@
 - The application is hosted on AWS cloud
 - The result is a well formatted web page with required details of the weather
 - Refer to project_description.pdf for implementation details
+- Check the video to see the app in running
 
 Technologies used:
   -
-  - Language: PHP
+  - Language: PHP, JavaScript
   - Web Technologies: HTML, CSS, JSON, XML
   - GCP App Engine, AWS
   - Editor: Brackets
